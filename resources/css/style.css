@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background-color: black;
+  font-family: verdana, sans-serif;
+}
+
+h1, h2 {
+  color: white
+}
+
+h1 {
+  font-size: 50 px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 42 px;
+  font-weight: 300;
+}
